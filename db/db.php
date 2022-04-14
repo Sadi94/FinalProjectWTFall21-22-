@@ -3,7 +3,7 @@
 	$host 	= "127.0.0.1";
 	$dbuser = "root";
 	$dbpass	= "";
-	$dbname	= "nursingservice";
+	$dbname	= "tinker";
 
 	function dbConnection(){
 
